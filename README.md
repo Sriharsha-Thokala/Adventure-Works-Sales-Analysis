@@ -24,8 +24,8 @@ A combination of Power BI, Power Query, and DAX was used for data transformation
 
 ---- 
 🧩 Skills:
-1. SQL: CTEs, Joins, Case, aggregate functions, Window Functions
-2. Power BI: Dax, writing functions, ETL, calculated columns, data visualization, data modeling
+1. SQL: CTEs, Joins, Case, aggregate functions, Window Functions, and Sub Queires
+3. Power BI: Dax, writing functions, ETL, calculated columns, data visualization, data modeling
 
 ----
 📊 Key Insights
